@@ -1,4 +1,4 @@
 # test
 
 
-Ejecutar script para crear la tabla que se adjunta en la carpeta bdScript
+El script de mysqli se encuentrae n la carpeta BDscript
